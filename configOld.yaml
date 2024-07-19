@@ -1,0 +1,16 @@
+credentials:
+  usernames:
+    Ecirillo:
+      email: elio.cirillo@gmail.com
+      logged_in: False
+      name: Elio Cirillo
+      password: abc123
+    Pparker:
+      email: testando1@gmail.com
+      logged_in: False
+      name: Peter Parker
+      password: def123
+cookie:
+  expiry_days: 1
+  key: some_signature_key
+  name: some_cookie_name

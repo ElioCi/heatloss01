@@ -1,0 +1,48 @@
+cookie:
+  expiry_days: 30
+  key: some_random_secret_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    Ale:
+      email: alessia.cirillo07@gmail.com
+      name: Alessia Cirillo
+      password: Alessia01
+    Cirillo:
+      email: elio.cirillo@alice.it
+      name: Aurelio
+      password: pw456??
+    ECirillo:
+      email: elio.cirillo@gmail.com
+      name: Elio Cirillo
+      password: ElioHeatLoss01!
+    IsabellaM:
+      email: macri.isabella@libero.it
+      name: "Isabella Macr\xEC"
+      password: Isabella01
+    Paperino:
+      email: elio.cirillo@gmail.com
+      name: Paperino
+      password: $2b$12$/VQnxHD1iHWC8.RuPQANRuIZkBR61RUVfTHsyEsll06kd9xHVGJ0C
+    Pippo:
+      email: pippo@gmail.com
+      name: Pippo
+      password: p123
+    Pippo2:
+      email: elio.cirillo@gmail.com
+      name: Pippo2
+      password: e2d7ec6505033bfed15a5e5d2313854e3d29cebf4fe4ff409d9f49dea0c59d68
+    Tizio:
+      email: tizio@gmail.com
+      name: 'Tizio '
+      password: tizio1
+    Utente1:
+      email: elio.cirillo@gmail.com
+      name: Elio Cirillo 2
+      password: Elioci01
+    pparker:
+      email: peter@gmail.com
+      name: Peter Parker
+      password: sonoio01
+preauthorized:
+  emails: []
